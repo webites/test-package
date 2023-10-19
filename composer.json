@@ -4,7 +4,7 @@
     "description": "First, test packag for php",
     "keywords": ["test","package"],
     "homepage": "https://github.com/webites/test-package",
-    "license": "GPL",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "webites.pl",
